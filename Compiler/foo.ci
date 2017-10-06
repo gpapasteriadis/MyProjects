@@ -1,0 +1,26 @@
+\* Gewrgios Papasteriadis AM: 2615
+   Athanasios Mpatsilas   AM: 2587 *\
+
+\* OI EKFRASEIS MESA STA IF KAI TA WHILE XREIAZONTAI SEMICOLON MONO OTAN META AKOLOUTHEI EMFWLEUMENI IF H WHILE*\
+
+
+program foo(){
+	
+
+	declare a,b,c enddeclare
+	function F1(in v1,inout v2){	
+		declare d enddeclare
+		function F2(in v3,in v4){
+			if(12<=3 and 100<99){
+				ut:=6/9;
+				call F3(in b,inout e);
+			};	
+			return(v3);					
+		}
+		while(4<2){
+			g := 5+(1*8)
+		};
+	}
+        print(g)
+	
+}
