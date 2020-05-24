@@ -1,2 +1,2 @@
-In this project i have implement a client-server service.
-there is a queue with requests from client to server,with help of PosixThreads every request in the queue serviced in a parallel manner.
+In this project I have implement a client-server service.
+There is a queue with requests from client to server,with help of PosixThreads every request in the queue serviced in a parallel manner.
