@@ -1,1 +1,1 @@
-These are some projects i've done in my school
+These are some projects I have done in college
